@@ -1,0 +1,16 @@
+{
+  "name": "eco-loader",
+  "version": "0.0.1",
+  "description": "eco loader for webpack",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "eco"
+  ],
+  "author": "Árni Hermann Reynisson",
+  "license": "MIT",
+  "dependencies": {
+    "eco": "~1.1.0-rc-3",
+    "umd-wrapper": "~0.1.0"
+  }
+}
